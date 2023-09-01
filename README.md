@@ -5,11 +5,11 @@
 # 👋 Hey there, I'm Sukanya!
 
 
-🔭 I’m currently teaching computers to learn on their own!
-
-🔍 Exploring the world, one dataset at a time
+🔭 I’m currently a CSE student at SRM University
 
 🌱 I’m currently learning Data mining and NLP
+
+🔍 Exploring the world, one dataset at a time
 
 🤝 Ready to team up for tech magic :)
 
