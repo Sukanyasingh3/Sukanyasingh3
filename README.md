@@ -1,6 +1,8 @@
-### <div align="center">👋 Hey there, I'm Sukanya!</div>  
 
-![tenor](https://github.com/Sukanyasingh3/Sukanyasingh3/assets/113462236/c77c81fb-bba4-4e2d-8f98-a93fb6fe779f)
+![tenor](https://github.com/Sukanyasingh3/Sukanyasingh3/assets/113462236/e73b3b61-29c5-4038-af6a-3aee31a0a417)
+
+
+## 👋 Hey there, I'm Sukanya!
 
 
 🔭 I’m currently teaching computers to learn on their own!
