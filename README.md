@@ -9,7 +9,7 @@
 
 🔍 Exploring the world, one dataset at a time
 
-🌱 I’m currently learning Data visualization and NLP
+🌱 I’m currently learning Data mining and NLP
 
 🤝 Ready to team up for tech magic :)
 
