@@ -7,6 +7,8 @@
 
 🔭 I’m currently a CSE student at SRM University
 
+🤖 I'm intersted in Machine Learning and Data Science
+
 🌱 I’m currently learning Data mining and NLP
 
 🔍 Exploring the world, one dataset at a time
