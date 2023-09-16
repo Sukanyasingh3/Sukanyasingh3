@@ -57,10 +57,14 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=Sukanyasingh3&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 60%" />  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukanyasingh3&hide_border=true&layout=compact" align="left" style="width: 60%" />  
+![](https://github-readme-stats.vercel.app/api?username=Sukanyasingh3&theme=dark&hide_border=false&include_all_commits=true&count_private=true )<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sukanyasingh3&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sukanyasingh3&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<br />
 
-![Profile views counter](https://komarev.com/ghpvc/?username=Sukanyasingh3&&style=flat-square)
+## Top Contribution
+![](https://github-contributor-stats.vercel.app/api?username=Sukanyasingh3&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+[![](https://visitcount.itsvg.in/api?id=Sukanyasingh3&icon=5&color=12)](https://visitcount.itsvg.in)
