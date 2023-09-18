@@ -58,7 +58,7 @@
 
 ## Github Stats  
 
-![](https://github-readme-stats.vercel.app/api?username=Sukanyasingh3&theme=dark&hide_border=false&include_all_commits=true&count_private=true )<br/>
+![]([https://github-readme-stats.vercel.app/api?username=Sukanyasingh3&theme=dark&hide_border=false&include_all_commits=true&count_private=true](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sukanyasingh3&&show_icons=true&theme=dark) )<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sukanyasingh3&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sukanyasingh3&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
