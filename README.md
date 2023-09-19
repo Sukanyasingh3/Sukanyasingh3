@@ -51,6 +51,9 @@
 <a href="https://instagram.com/_sukanyasingh_" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+<a href="https://www.figma.com/files/user/1253277797411380225?fuid=1253277797411380225" target="_blank">
+<img src=https://img.shields.io/badge/figma-%231E77B5.svg?&style=for-the-badge&logo=figma&logoColor=white alt=figma style="margin-bottom: 5px;" />
+</a>
   
 
 <br/>  
