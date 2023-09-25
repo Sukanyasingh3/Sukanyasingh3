@@ -9,16 +9,16 @@
 <h3> 🔭 I’m currently a CSE student at SRM University</h3>
   
 
-### 🤖 I'm intersted in Machine Learning and Data Science  
+🤖 I'm intersted in Machine Learning and Data Science  
   
 
-### 🌱 I’m currently learning Data mining and NLP  
+🌱 I’m currently learning Data mining and NLP  
   
 
-### 🔍 Exploring the world, one dataset at a time  
+🔍 Exploring the world, one dataset at a time  
   
 
-### 🤝 Ready to team up for tech magic :)  
+🤝 Ready to team up for tech magic :)  
   
 
 <br/>  
