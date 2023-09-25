@@ -4,9 +4,9 @@
 <h1 align="center">👋 Hey there, I'm Sukanya! </h1>
 <br/>  
   
-<img align="right" src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/tenor.gif" width="330" height="200"/>
+<img align="right" src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/tenor.gif" width="350" height="220"/>
 
-<h3> 🔭 I’m currently a CSE student at SRM University</h3>
+🔭 I’m currently a CSE student at SRM University
   
 
 🤖 I'm intersted in Machine Learning and Data Science  
