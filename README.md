@@ -1,4 +1,6 @@
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" width="1000" height="350" alt="Hello world">
+
+
 <h1 align="center">👋 Hey there, I'm Sukanya! </h1>
 
 <br/>  
@@ -39,6 +41,8 @@
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas"  height="50"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" height="50"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" height="50"/> </a> </p>
+
 </div>  
 
 <br/>  
@@ -56,23 +60,38 @@
 
 <a href="https://www.figma.com/files/user/1253277797411380225?fuid=1253277797411380225" target="_blank">
 <img src=https://img.shields.io/badge/figma-%231E77B5.svg?&style=for-the-badge&logo=figma&logoColor=white alt=figma style="margin-bottom: 5px;" />
+  
 </a>
 
 <br/>  
 
 
+
 ## Github Stats  
+<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sukanyasingh3&&show_icons=true&theme=dark" height="190em" />  
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Sukanyasingh3&theme=dark&hide_border=false" height="190em" />
 
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sukanyasingh3&&show_icons=true&theme=dark)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sukanyasingh3&theme=dark&hide_border=false)<br/>
+<br/> 
+<br/> 
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sukanyasingh3&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sukanyasingh3&theme=2077" height="350em" />
+</div>
 
 
-## Top Contribution
+
+## Contribution
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Sukanyasingh3&theme=gotham"/>
+
+<br/>  
+
 ![](https://github-contributor-stats.vercel.app/api?username=Sukanyasingh3&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h3 align="center">Visitor Counter </h3>
 <p align="center"> 
-  Visitor count<br>
   <img src="https://profile-counter.glitch.me/Sukanyasingh3/count.svg" />
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
