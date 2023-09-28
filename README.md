@@ -22,7 +22,7 @@
 
 🤝 Ready to team up for tech magic :)  
 
-🔗 Check out my [Personal Website](https://sukanyasingh3.github.io/profile/)
+🔗 Check out my [Website](https://sukanyasingh3.github.io/profile/)
 
   
 <br/>  
