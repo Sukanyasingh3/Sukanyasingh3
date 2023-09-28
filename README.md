@@ -74,4 +74,3 @@
 
 
 ![](https://komarev.com/ghpvc/?username=Sukanyasingh3)
-![Code Time](https://wakatime.com/badge/user/d739e0fd-c5e5-4834-8adc-2f9e8c6a1547.svg)
