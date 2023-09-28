@@ -1,11 +1,12 @@
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" width="1000" height="350" alt="Hello world">
+<a href="https://sukanyasingh3.github.io/profile/" target="_blank">
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" width="1000" height="350" alt="Hello world"" />
 
 
 <h1 align="center">👋 Hey there, I'm Sukanya! </h1>
 
 <br/>  
   
-<img align="right" src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/tenor.gif" width="350" height="220"/>
+<img align="right" src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/tenor.gif" width="360" height="230"/>
 
 🔭 I’m currently a CSE student at SRM University
   
@@ -20,6 +21,8 @@
   
 
 🤝 Ready to team up for tech magic :)  
+
+🔗 Check out my [Personal Website](https://sukanyasingh3.github.io/profile/)
 
   
 <br/>  
@@ -70,7 +73,7 @@
 ## Github Stats  
 <div> 
 <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sukanyasingh3&&show_icons=true&theme=dark" height="190em" />  
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Sukanyasingh3&theme=dark&hide_border=false" height="190em" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Sukanyasingh3&theme=dark&hide_border=false" height="190em" />
 </div>
 <br> 
 
