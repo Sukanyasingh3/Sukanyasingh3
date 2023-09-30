@@ -52,6 +52,11 @@
 
 
 ## Connect with me  
+
+<a href="https://sukanyasingh3.github.io/profile/" target="_blank">
+<img src=https://img.shields.io/badge/WEBSITE-330F63.svg?&style=for-the-badge&logo=website&logoColor=white alt=gitlab style="margin-bottom:5px;" />
+</a>
+  
 <a href="https://github.com/Sukanyasingh3" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -62,13 +67,16 @@
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 
 <a href="https://www.figma.com/files/user/1253277797411380225?fuid=1253277797411380225" target="_blank">
-<img src=https://img.shields.io/badge/figma-%231E77B5.svg?&style=for-the-badge&logo=figma&logoColor=white alt=figma style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/figma-%EE5B2F.svg?&style=for-the-badge&logo=figma&logoColor=white alt=figma style="margin-bottom: 5px;" />
+
+<a href="https://medium.com/@sukanyasingh303" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+
+<a href="https://www.instagram.com/_sukanyasingh_/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23E45285.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
   
 </a>
-
 <br/>  
-
-
 
 ## Github Stats  
 <div> 
