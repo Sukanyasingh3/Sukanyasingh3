@@ -77,6 +77,7 @@
 
 
 ## Github Stats  
+<a href="https://sukanyasingh3.github.io/profile/" target="_blank">
 <img src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/snake.svg" alt="Snake animation" />
 <div> 
 <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sukanyasingh3&&show_icons=true&theme=dark" height="190em" />  
