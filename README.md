@@ -24,9 +24,6 @@
 
 🔗 Check out my [Website](https://sukanyasingh3.github.io/profile/)
 
-  
-<br/>  
-
 
 ## My Skill Set  
 <div align="center">  
@@ -78,7 +75,9 @@
 </a>
 <br/>  
 
+
 ## Github Stats  
+<img src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/snake.svg" alt="Snake animation" />
 <div> 
 <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sukanyasingh3&&show_icons=true&theme=dark" height="190em" />  
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Sukanyasingh3&theme=dark&hide_border=false" height="190em" />
@@ -107,6 +106,5 @@
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
