@@ -80,7 +80,7 @@
 <img src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/snake.svg" alt="Snake animation" />
 <div> 
 <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sukanyasingh3&&show_icons=true&theme=dark" height="190em" />  
-<!--<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Sukanyasingh3&theme=dark&hide_border=false" height="190em" />-->
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Sukanyasingh3&theme=dark&hide_border=false" height="190em" />
 </div>
 <br> 
 
