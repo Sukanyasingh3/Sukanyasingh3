@@ -20,9 +20,7 @@
 🔍 Exploring the world, one dataset at a time  
   
 
-🤝 Ready to team up for tech magic :)  
-
-🔗 Check out my [blog](https://medium.com/@sukanyasingh303/eyes-of-the-machine-exploring-the-wonders-of-computer-vision-b29009d7397d) on medium!
+🤝 Ready to team up for tech magic :) 
 
 
 ## My Skill Set  
