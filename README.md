@@ -4,11 +4,12 @@
 
 <h1 align="center">👋 Hey there, I'm Sukanya! </h1>
 
-<br/>  
+
   
 <img align="right" src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/tenor.gif" width="360" height="230"/>
+<br/> 
 
-🔭 I’m currently a CSE student at SRM University
+🔭 I’m currently a 2nd year CSE student at SRM University
   
 
 🤖 I'm intersted in Machine Learning and Data Science  
@@ -16,11 +17,12 @@
 
 🌱 I’m currently learning Data mining and NLP  
   
-
-🔍 Exploring the world, one dataset at a time  
-  
+ 
 
 🤝 Ready to team up for tech magic :) 
+
+<br/> 
+                                 
 
 
 ## My Skill Set  
