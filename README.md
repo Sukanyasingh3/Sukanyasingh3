@@ -90,9 +90,10 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Sukanyasingh3&theme=gotham"/>
 
 <br/>  
+<p align="center"> 
+ <img align="center" src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/gif1.gif"/>
+</p>
 
-![](https://github-contributor-stats.vercel.app/api?username=Sukanyasingh3&limit=5&theme=dark&combine_all_yearly_contributions=true)
-<img align="right" src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/gif1.gif" width="490" height="250"/>
 
 
 
