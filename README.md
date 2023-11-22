@@ -83,13 +83,8 @@
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Sukanyasingh3&theme=dark&hide_border=false" height="190em" />
 </div>
 <br> 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sukanyasingh3&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sukanyasingh3&theme=2077" height="350em" />
-
-
-
 
 ## Contribution
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Sukanyasingh3&theme=gotham"/>
@@ -97,6 +92,9 @@
 <br/>  
 
 ![](https://github-contributor-stats.vercel.app/api?username=Sukanyasingh3&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img align="right" src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/gif1.gif" width="490" height="250"/>
+
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
