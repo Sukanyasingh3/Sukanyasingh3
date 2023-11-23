@@ -17,9 +17,9 @@
 
 🌱 I’m currently learning Data mining and NLP  
   
- 
-
 🤝 Ready to team up for tech magic :) 
+
+📫 How to reach me sukanyasingh303@gmail.com
 
 <br/> 
                                  
