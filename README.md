@@ -86,6 +86,10 @@
   
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sukanyasingh3&theme=2077" height="350em" />
 
+[![Sukanya's GitHub | Languages Over Time](https://stats.quine.sh/Sukanyasingh3/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm)
+
+
+[![Sukanya's GitHub | Topics](https://stats.quine.sh/Sukanyasingh3/topics-over-time?theme=dark)](https://quine.sh)
 ## Contribution
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Sukanyasingh3&theme=gotham"/>
 
@@ -93,8 +97,6 @@
 <p align="center"> 
  <img align="center" src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/gif1.gif"/>
 </p>
-
-
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
