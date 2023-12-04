@@ -11,10 +11,8 @@
 
 🔭 I’m currently a 2nd year CSE student at SRM University
   
-
 🤖 I'm intersted in Machine Learning and Data Science  
   
-
 🌱 I’m currently learning Data mining and NLP  
   
 🤝 Ready to team up for tech magic :) 
