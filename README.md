@@ -17,7 +17,7 @@
   
 🤝 Ready to team up for tech magic :) 
 
-📫 How to reach me sukanyasingh303@gmail.com
+📫 How to reach me:  sukanyasingh303@gmail.com
 
 <br/> 
                                  
