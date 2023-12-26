@@ -1,4 +1,4 @@
-<a href="https://sukanyasingh3.github.io/profile/" target="_blank">
+<a href="https://sukanyaportfolio.web.app/" target="_blank">
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" width="1000" height="350" alt="Hello world"" />
 
 
@@ -48,7 +48,7 @@
 
 ## Connect with me  
 
-<a href="https://sukanyasingh3.github.io/profile/" target="_blank">
+<a href="https://sukanyaportfolio.web.app/" target="_blank">
 <img src=https://img.shields.io/badge/WEBSITE-330F63.svg?&style=for-the-badge&logo=website&logoColor=white alt=gitlab style="margin-bottom:5px;" />
 </a>
   
