@@ -84,6 +84,8 @@
   
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sukanyasingh3&theme=2077" height="350em" />
 
+[![Sukanyasingh3's GitHub | Dependencies](https://stats.quine.sh/Sukanyasingh3/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Sukanyasingh3)
+
 [![Sukanya's GitHub | Languages Over Time](https://stats.quine.sh/Sukanyasingh3/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm)
 
 
