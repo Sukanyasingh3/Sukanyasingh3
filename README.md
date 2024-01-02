@@ -1,10 +1,11 @@
 <a href="https://sukanyaportfolio.web.app/" target="_blank">
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" width="1000" height="350" alt="Hello world"" />
+<img src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/ezgif.com-crop.gif" width="200%" height="200%" alt="Hello world"" />
 
 
 <h1 align="center">👋 Hey there, I'm Sukanya! </h1>
 
 
+<br/> 
   
 <img align="right" src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/tenor.gif" width="360" height="230"/>
 <br/> 
