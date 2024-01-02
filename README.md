@@ -1,14 +1,11 @@
+<div align="center">  
 <a href="https://sukanyaportfolio.web.app/" target="_blank">
-<img src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/ezgif.com-crop.gif" width="200%" height="200%" alt="Hello world"" />
-
-
-<h1 align="center">👋 Hey there, I'm Sukanya! </h1>
-
-
-<br/> 
-  
+<img align="center" src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/ezgif.com-crop.gif"  alt="Hello world"" />
+<div/> 
+<br/> <br/> 
 <img align="right" src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/tenor.gif" width="360" height="230"/>
 <br/> 
+<div align="left">  
 
 🔭 I’m currently a 2nd year CSE student at SRM University
   
@@ -21,7 +18,7 @@
 📫 How to reach me:  sukanyasingh303@gmail.com
 
 <br/> 
-                                 
+  <div/>                               
 
 
 ## My Skill Set  
