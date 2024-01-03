@@ -1,9 +1,16 @@
 <div align="center">  
 <a href="https://sukanyaportfolio.web.app/" target="_blank">
 <img align="center" src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/ezgif.com-crop%20(1).gif"  alt="Hello world"" />
+  <h3 align="center">Visitor Counter </h3>
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/Sukanyasingh3/count.svg" />
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div/> 
 <br/> <br/> 
 <img align="right" src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/tenor.gif" width="360" height="230"/>
+  
 <br/> 
 <div align="left">  
 
