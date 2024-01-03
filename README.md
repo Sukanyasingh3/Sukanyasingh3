@@ -90,8 +90,6 @@
   
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sukanyasingh3&theme=2077" height="350em" />
 
-## Contribution
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Sukanyasingh3&theme=gotham"/>
 
 <br/>  
 <p align="center"> 
