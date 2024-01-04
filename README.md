@@ -84,10 +84,10 @@
 <img src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/snake.svg" alt="Snake animation" />
 <div> 
   <div> 
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Sukanyasingh3&theme=dark&hide_border=false" height="190em" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Sukanyasingh3&theme=dark&hide_border=false" height="120em" />
     </div>
-<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sukanyasingh3&&show_icons=true&theme=dark" height="190em" /> 
- <img align="center" src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/gif1.gif" width="40%" height="40%"/>
+<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sukanyasingh3&&show_icons=true&theme=dark" height="120em" /> 
+
 </div>
 <br> 
   
@@ -99,7 +99,7 @@
 
 
 
-
+ <img align="center" src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/gif1.gif" width="40%" height="40%"/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
