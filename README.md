@@ -9,20 +9,20 @@
 
 <div/> 
 <br/> <br/> 
-<img align="right" src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/tenor.gif" width="360" height="250"/>
+<img align="right" src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/tenor.gif" width="340" height="230"/>
   
 
 <div align="left">  
 
-### 🔭 I’m currently a 2nd year CSE student at SRM University
+🔭 I’m currently a 2nd year CSE student at SRM University
   
-### 🤖 I'm intersted in Machine Learning and Data Science  
+🤖 I'm intersted in Machine Learning and Data Science  
   
-### 🌱 I’m currently learning Data mining and NLP  
+🌱 I’m currently learning Data mining and NLP  
   
-### 🤝 Ready to team up for projects :) 
+🤝 Ready to team up for projects :) 
 
-### 📫 How to reach me:  sukanyasingh303@gmail.com
+📫 How to reach me:  sukanyasingh303@gmail.com
  <div/> 
 <br/> <br/> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
