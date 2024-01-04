@@ -84,9 +84,9 @@
 <img src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/snake.svg" alt="Snake animation" />
 <div> 
   <div> 
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Sukanyasingh3&theme=dark&hide_border=false" height="120em" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Sukanyasingh3&theme=dark&hide_border=false" height="140em" />
     </div>
-<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sukanyasingh3&&show_icons=true&theme=dark" height="120em" /> 
+<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sukanyasingh3&&show_icons=true&theme=dark" height="140em" /> 
 
 </div>
 <br> 
