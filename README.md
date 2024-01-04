@@ -9,7 +9,7 @@
 
 <div/> 
 <br/> <br/> 
-<img align="right" src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/tenor.gif" width="400" height="260"/>
+<img align="right" src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/tenor.gif" width="380" height="250"/>
   
 
 <div align="left">  
