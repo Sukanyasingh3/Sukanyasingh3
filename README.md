@@ -28,7 +28,7 @@
   <div/>                               
 
 
-## My Skill Set  
+# My Skill Set  
 <div align="center">  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
@@ -51,7 +51,7 @@
 <br/>  
 
 
-## Connect with me  
+# Connect with me  
 
 <a href="https://sukanyaportfolio.web.app/" target="_blank">
 <img src=https://img.shields.io/badge/WEBSITE-330F63.svg?&style=for-the-badge&logo=website&logoColor=white alt=gitlab style="margin-bottom:5px;" />
@@ -79,7 +79,7 @@
 <br/>  
 
 
-## Github Stats  
+# Github Stats  
 <img src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/snake.svg" alt="Snake animation" />
 <div> 
 <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sukanyasingh3&&show_icons=true&theme=dark" height="190em" /> 
