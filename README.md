@@ -1,3 +1,11 @@
+
+<br/>  
+<p align="center"> 
+ <img align="center" src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/gif1.gif" width="200%" height="200%"/>
+</p>
+
+
+
 <div align="center">  
 <a href="https://sukanyaportfolio.web.app/" target="_blank">
 <img align="center" src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/ezgif.com-crop%20(1).gif"  alt="Hello world"" />
