@@ -1,6 +1,6 @@
 <div align="center">  
 <a href="https://sukanyaportfolio.web.app/" target="_blank">
-<img align="center" src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/ezgif.com-crop%20(1).gif"  alt="Hello world"" />
+<img align="center" src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/ezgif.com-crop%20(1).gif"  width="200%" height="200%"" />
   <h3 align="center">Visitor Counter </h3>
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/Sukanyasingh3/count.svg" />
