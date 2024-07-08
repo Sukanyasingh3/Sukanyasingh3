@@ -91,15 +91,9 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sukanyasingh3&theme=2077" height="300em" />
 
 
-<br/>  
+<br/> 
 
 
 
-<!-- 
 
- <img align="center" src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/gif1.gif" width="40%" height="40%"/>
- -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
