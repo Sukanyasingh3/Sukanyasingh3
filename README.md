@@ -14,7 +14,7 @@
 <div align="left">  
 <br/> 
   
-🔭 I’m currently a 2nd year CSE student at SRM University
+🔭 I’m currently a 3rd year CSE student at SRM University
   
 🤖 I'm intersted in Machine Learning and Data Science  
   
