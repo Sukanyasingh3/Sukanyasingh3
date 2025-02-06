@@ -2,10 +2,7 @@
 <a href="https://sukanyaportfolio.web.app/" target="_blank">
 <img align="center" src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/ezgif.com-crop%20(1).gif"" />
   
-<h3 align="center">Visitor Counter </h3>
-  <p align="center"> 
-  <img src="https://profile-counter.glitch.me/Sukanyasingh3/count.svg" />
-  
+
 [![](https://img.shields.io/github/stars/Sukanyasingh3?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=sSukanyasingh3&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
 [![](https://img.shields.io/github/followers/Sukanyasingh3?color=27da6b&logo=Handshake)](https://github.com/Sukanyasingh3?tab=followers)
 </p>
@@ -106,9 +103,15 @@
 
 <br/> 
 
-
-
+<h3 align="center">Visitor Counter </h3>
+  <p align="center"> 
+  <img src="https://profile-counter.glitch.me/Sukanyasingh3/count.svg" />
+  <br/> 
+  <br/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
 
 
