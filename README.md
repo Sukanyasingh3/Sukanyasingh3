@@ -1,16 +1,24 @@
 <div align="center">  
 <a href="https://sukanyaportfolio.web.app/" target="_blank">
 <img align="center" src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/ezgif.com-crop%20(1).gif"" />
-  
+  </a>
 
-[![](https://img.shields.io/github/stars/Sukanyasingh3?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=sSukanyasingh3&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
-[![](https://img.shields.io/github/followers/Sukanyasingh3?color=27da6b&logo=Handshake)](https://github.com/Sukanyasingh3?tab=followers)
-</p>
+  
+<br/>
+<br/>
+<br/>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+
+
+
+
+[![](https://img.shields.io/github/stars/Sukanyasingh3?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=sSukanyasingh3&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
+[![](https://img.shields.io/github/followers/Sukanyasingh3?color=27da6b&logo=Handshake)](https://github.com/Sukanyasingh3?tab=followers)  
+</p>
   </a>
 </div>
-<br/> 
+<br/>
 <div/> 
 <img align="right" src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/tenor.gif" width="400" height="250"/>
   
