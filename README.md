@@ -1,7 +1,6 @@
 <div align="center">  
-<a href="https://sukanyaportfolio.web.app/" target="_blank">
-<img align="center" src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/ezgif.com-crop%20(1).gif"" />
-  </a>
+  <img align="center" src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/ezgif.com-crop%20(1).gif" width="400" height="300" />
+</div>
 
 <br/>
 <br/>
