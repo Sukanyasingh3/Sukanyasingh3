@@ -64,7 +64,7 @@
 
 # Connect with me  
 
-<a href="https://sukanyaportfolio.web.app/" target="_blank">
+<a href="https://bento.me/sukanyasingh" target="_blank">
 <img src=https://img.shields.io/badge/WEBSITE-330F63.svg?&style=for-the-badge&logo=website&logoColor=white alt=gitlab style="margin-bottom:5px;" />
 </a>
   
