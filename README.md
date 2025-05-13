@@ -1,12 +1,9 @@
-<div align="center">  
-  <img src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/intro-Photoroom.png" width="475" height="325">
+<p align="center">
+  <img src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/Banner.png">
+</p><div align="center"><div align="center">
+  <h3><samp>CSE @ SRM University</samp></h3>
 </div>
-
-<samp>
-
-<div align="center">
-  <h2><samp>CSE @ SRM University</samp></h2>
-</div>
+  <samp>
 <div align="center">
   <a href="mailto:sukanyasingh303@gmail.com">mail</a>  ★
   <a href="https://sukanya.vercel.app/">portfolio</a>  ★
