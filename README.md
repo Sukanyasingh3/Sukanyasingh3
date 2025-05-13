@@ -1,26 +1,25 @@
 <p align="center">
-  <img src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/Banner.png">
-</p><div align="center"><div align="center">
+  <img src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/Banner.png"width="700">
+</p><div align="center">
   <h3><samp>CSE @ SRM University</samp></h3>
 </div>
-  <samp>
 <div align="center">
-  <a href="mailto:sukanyasingh303@gmail.com">mail</a>  ★
-  <a href="https://sukanya.vercel.app/">portfolio</a>  ★
-  <a href="https://www.linkedin.com/in/sukanyasingh3/">linkedin</a>  ★
-  <a href="https://bento.me/sukanyasingh">bento</a>  ★
+  <a href="mailto:sukanyasingh303@gmail.com">mail</a> ★
+  <a href="https://sukanya.vercel.app/">portfolio</a> ★
+  <a href="https://www.linkedin.com/in/sukanyasingh3/">linkedin</a> ★
+  <a href="https://bento.me/sukanyasingh">bento</a> ★
   <a href="https://medium.com/@sukanyasingh303">medium</a> ★
   <a href="https://www.instagram.com/_sukanyasingh_/">instagram</a>
-  </div>
+</div>
 <br>
-  <div align="center"> 
-    <a href="https://github-readme-stats.vercel.app/api?username=Sukanyasingh3&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn">
-      <img src="https://img.shields.io/github/stars/Sukanyasingh3?color=fefb7b&logo=Undertale" alt="GitHub Stars">
-    <a href="https://github.com/Sukanyasingh3?tab=followers">
-      <img src="https://img.shields.io/github/followers/Sukanyasingh3?color=27da6b&logo=Handshake" alt="GitHub Followers">
-    </a>
-  </div>
-</samp>
+<div align="center"> 
+  <a href="https://github-readme-stats.vercel.app/api?username=Sukanyasingh3&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn">
+    <img src="https://img.shields.io/github/stars/Sukanyasingh3?color=fefb7b&logo=Undertale" alt="GitHub Stars">
+  </a>
+  <a href="https://github.com/Sukanyasingh3?tab=followers">
+    <img src="https://img.shields.io/github/followers/Sukanyasingh3?color=27da6b&logo=Handshake" alt="GitHub Followers">
+  </a>
+</div>
 
 
 <br><br>
@@ -79,13 +78,12 @@
 
 </div>
 </samp>
-
 <samp>
 
 <h4 align="center">Visitor Counter </h4>
   <p align="center"> 
   <img src="https://profile-counter.glitch.me/Sukanyasingh3/count.svg" /> 
 <div align="center"> 
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=E9AFF7&center=true&vCenter=true&width=435&lines=%E2%8B%86+%CB%99%E2%9F%A1+Thank+you+for+visiting+!++(%CB%B6%E1%B5%94+%E1%B5%95+%E1%B5%94%CB%B6))](https://git.io/typing-svg)
 </samp>
+
+
