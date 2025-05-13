@@ -4,7 +4,7 @@
   <h3><samp>CSE @ SRM University</samp></h3>
 </div>
 <div align="center">
-  <a href="mailto:sukanyasingh303@gmail.com">mail</a> ★
+  <a href="mailto:sukanyasingh303@gmail.com">mail</a> •
   <a href="https://sukanya.vercel.app/">portfolio</a> ★
   <a href="https://www.linkedin.com/in/sukanyasingh3/">linkedin</a> ★
   <a href="https://bento.me/sukanyasingh">bento</a> ★
