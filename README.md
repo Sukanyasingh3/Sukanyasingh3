@@ -27,7 +27,7 @@
 
 <samp>
 <details>
-  <summary><b>Skill Set</b></summary>
+  <summary><b>Skills</b></summary>
 <br><br>
 <div align="left">  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
@@ -57,7 +57,7 @@
 
 <samp>
 <details>
-    <summary><b>Github Stats</b></summary>
+    <summary><b>Stats</b></summary>
 <br>
 
 <img src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/snake.svg" alt="Snake animation" /><br/> 
