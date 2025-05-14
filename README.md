@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/Banner.png"width="500">
+  <img src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/Banner.png"width="700">
 </p><div align="center">
-  <samp>CSE @ SRM University</samp>
+  <h3><samp>CSE @ SRM University</samp></h3>
 </div>
 <div align="center">
   <a href="mailto:sukanyasingh303@gmail.com">mail</a> ⋆
