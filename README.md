@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/Banner.png"width="700">
+  <img src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/Banner.png"width="550">
 </p><div align="center">
   <h3><samp>CSE @ SRM University</samp></h3>
 </div>
