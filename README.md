@@ -8,6 +8,7 @@
   <a href="https://sukanya.vercel.app/">portfolio</a> ⋆
   <a href="https://www.linkedin.com/in/sukanyasingh3/">linkedin</a> ⋆
   <a href="https://bento.me/sukanyasingh">bento</a> ⋆
+  <a href="https://www.researchgate.net/profile/Sukanya-Singh-5?ev=hdr_xprf">research gate</a> ⋆
   <a href="https://medium.com/@sukanyasingh303">medium</a> ⋆
   <a href="https://www.instagram.com/_sukanyasingh_/">instagram</a>
 </div>
