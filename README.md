@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/Banner.png"width="550">
+  <img src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/Assets/Banner%20(1).png"width="550">
 </p><div align="center">
   <h3><samp>CSE @ SRM University</samp></h3>
 </div>
@@ -61,7 +61,7 @@
     <summary><b>Stats</b></summary>
 <br>
 
-<img src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/snake.svg" alt="Snake animation" /><br/> 
+<img src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/Assets/snake.svg" alt="Snake animation" /><br/> 
 <div> 
   <div> 
  <!---
