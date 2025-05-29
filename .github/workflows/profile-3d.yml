@@ -1,33 +1,33 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule:  # runs once per day at 18:00 UTC
+  schedule: # Runs every day at 18:00 UTC (03:30 AM IST)
     - cron: "0 18 * * *"
-  workflow_dispatch:  # allows manual run from GitHub Actions tab
+  workflow_dispatch: # Allows manual trigger from Actions tab
 
 permissions:
-  contents: write  # allows the action to commit changes
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
+    name: Generate 3D GitHub Contribution Calendar
 
     steps:
-      - name: Checkout repository
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
       - name: Generate 3D Contribution Calendar
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: sukanyasingh03
 
-      - name: Commit & Push
+      - name: Commit and Push Generated Images
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          if git commit -m "generated"; then
+          if git commit -m "Update 3D contribution calendar"; then
             git push
           fi
