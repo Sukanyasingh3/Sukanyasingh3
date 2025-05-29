@@ -1,9 +1,9 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # Runs every day at 18:00 UTC (03:30 AM IST)
-    - cron: "0 18 * * *"
-  workflow_dispatch: # Allows manual trigger from Actions tab
+  schedule: # Runs daily at 03:00 AM IST (18:30 UTC)
+    - cron: "30 18 * * *"
+  workflow_dispatch: # Allows manual run
 
 permissions:
   contents: write
@@ -21,7 +21,7 @@ jobs:
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: sukanyasingh03
+          USERNAME: sukanyasingh3
 
       - name: Commit and Push Generated Images
         run: |
