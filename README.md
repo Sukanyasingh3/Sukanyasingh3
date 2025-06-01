@@ -74,7 +74,6 @@
   
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sukanyasingh3&theme=2077" height="300em" />
 
- ---
 
 </details> 
 
