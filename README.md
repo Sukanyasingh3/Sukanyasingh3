@@ -22,9 +22,8 @@
   </a>
 </div>
 
-
-<br><br>
-
+ 
+ ---
 
 <samp>
 <details>
@@ -51,9 +50,7 @@
 </details> 
 </samp>
 
-<br/>  
-
-
+ ---
 
 
 <samp>
@@ -77,14 +74,15 @@
   
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sukanyasingh3&theme=2077" height="300em" />
 
-
+ ---
 
 </details> 
 
 </div>
 </samp>
 <samp>
-
+  
+---
 <h4 align="center">Visitor Counter </h4>
   <p align="center"> 
   <img src="https://profile-counter.glitch.me/Sukanyasingh3/count.svg" /> 
