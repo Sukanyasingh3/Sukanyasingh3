@@ -97,11 +97,20 @@
   <summary><b>Stats</b></summary>
 
   <!-- Snake animation -->
+
   <img src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/Assets/snake.svg" alt="Snake animation" /><br/>
+  
+  <!-- Isometric View -->
+  <p align="center">
+	<a href="./profile-3d-contrib/profile-night-green.svg">
+		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
+	</a>
+</p>
+<br/>
 
   <!-- GitHub Streak & Stats -->
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Sukanyasingh3&theme=dark&hide_border=false" height="160px" />
-  <img align="left" src="https://github-readme-stats-git-masterrstaax-rickstaa.vercel.app/api?username=Sukanyasingh3&show_icons=true&theme=dark" height="160px" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sukanyasingh3&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="160px" />
 
   <br><br><br><br><br>
 
