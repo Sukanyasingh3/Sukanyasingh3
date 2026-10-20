@@ -122,10 +122,3 @@
 </samp>
 
 ---
-
-<!-- Visitor Counter -->
-<h4 align="center">Visitor Counter </h4>
-  <p align="center"> 
-  <img src="https://profile-counter.glitch.me/Sukanyasingh3/count.svg"/> 
-<div align="center"> 
-</samp>
